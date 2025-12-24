@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I’m **Kaustubh Alandkar**
+
+💻 Full-Stack Engineer focused on building **scalable, high-performance systems**  
+🧠 Strong interest in **system design** and enabling **efficient data flow across distributed services**  
+📈 Working on **data-intensive systems and real-time data flow optimization**  
+📫 Reach me at: kaustubhalandkar [at] gmail [dot] com  
+
 
 <!--
 **kaustubh-26/kaustubh-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
