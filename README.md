@@ -1,8 +1,11 @@
 👋 Hi, I’m **Kaustubh Alandkar**
 
-💻 Full-Stack Engineer focused on building **scalable, high-performance systems**  
+💻 Full-Stack Engineer focused on building **scalable, high-performance systems** 
+
 🧠 Strong interest in **system design** and enabling **efficient data flow across distributed services**  
+
 📈 Working on **data-intensive systems and real-time data flow optimization**  
+
 📫 Reach me at: kaustubhalandkar [at] gmail [dot] com  
 
 
